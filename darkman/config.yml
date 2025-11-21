@@ -1,0 +1,4 @@
+dbusserver: true
+portal: true
+usegeoclue: false  # desactiva cambios automáticos según el sol
+
