@@ -1,4 +1,0 @@
-2025-11-21 02:32:09.477 [info] ChatSessionStore: Migrating 0 chat sessions from storage service to file system
-2025-11-21 02:32:09.700 [info] Started local extension host with pid 101728.
-2025-11-21 02:32:09.793 [info] Started initializing default profile extensions in extensions installation folder. file:///home/dev/.vscode/extensions
-2025-11-21 02:32:10.052 [info] Completed initializing default profile extensions in extensions installation folder. file:///home/dev/.vscode/extensions

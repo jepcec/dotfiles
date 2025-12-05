@@ -6,28 +6,29 @@
         "workspaces": [],
         "folders": [
             {
-                "folderUri": "file:///home/dev/Downloads"
+                "folderUri": "file:///home/dev/proyectos/chat-simulator"
             }
         ],
-        "emptyWindows": [
-            {
-                "backupFolder": "1763692328616"
-            }
-        ]
+        "emptyWindows": []
     },
-    "windowControlHeight": 35,
+    "windowControlHeight": 30,
     "profileAssociations": {
         "workspaces": {
-            "file:///home/dev/Downloads": "__default__profile__"
+            "file:///home/dev/Downloads": "__default__profile__",
+            "file:///home/dev/unsaac/ingenieria-software-II/GestionProyectos": "__default__profile__",
+            "file:///home/dev/projects/project-manager": "__default__profile__",
+            "file:///home/dev/proyectos/prueba": "__default__profile__",
+            "file:///home/dev/unsaac/desarrollo-software-II/test-flutter": "__default__profile__",
+            "file:///home/dev/proyectos/prueba1": "__default__profile__",
+            "file:///home/dev/proyectos": "__default__profile__",
+            "file:///home/dev/proyectos/chat-simulator": "__default__profile__"
         },
-        "emptyWindows": {
-            "1763692328616": "__default__profile__"
-        }
+        "emptyWindows": {}
     },
     "windowsState": {
         "lastActiveWindow": {
-            "folder": "file:///home/dev/Downloads",
-            "backupPath": "/home/dev/.config/Code/Backups/862976c95bf00e5cdb628c2bf2336bac",
+            "folder": "file:///home/dev/proyectos/chat-simulator",
+            "backupPath": "/home/dev/.config/Code/Backups/b693ad00f8babe41ee76f33a939ff5a7",
             "uiState": {
                 "mode": 1,
                 "x": 12,
@@ -62,7 +63,7 @@
             "editorPartMinWidth": 220,
             "titleBarHeight": 35,
             "activityBarWidth": 48,
-            "sideBarWidth": 291,
+            "sideBarWidth": 244,
             "auxiliaryBarWidth": 0,
             "statusBarHeight": 22,
             "windowBorder": false
@@ -70,10 +71,46 @@
     },
     "windowSplashWorkspaceOverride": {
         "layoutInfo": {
-            "sideBarWidth": 291,
-            "auxiliaryBarWidth": 217,
+            "sideBarWidth": 244,
+            "auxiliaryBarWidth": 503,
             "workspaces": {
                 "7f7876089916fc4b10da6f6945de88e4": {
+                    "sideBarVisible": true,
+                    "auxiliaryBarVisible": false
+                },
+                "6a0a2efb9d2841c01b4219118288c4b4": {
+                    "sideBarVisible": true,
+                    "auxiliaryBarVisible": true
+                },
+                "9f9a66dc4020292511fd13b61d62d823": {
+                    "sideBarVisible": true,
+                    "auxiliaryBarVisible": false
+                },
+                "d2f43280bae4798ac6076146340e8b71": {
+                    "sideBarVisible": true,
+                    "auxiliaryBarVisible": false
+                },
+                "7d3823a75acfd33094d067e3bb036465": {
+                    "sideBarVisible": true,
+                    "auxiliaryBarVisible": false
+                },
+                "0582a780c71cfd7da4f7cd86dc98fc84": {
+                    "sideBarVisible": true,
+                    "auxiliaryBarVisible": false
+                },
+                "654c375d1598b0eaf46333ed2f897802": {
+                    "sideBarVisible": true,
+                    "auxiliaryBarVisible": true
+                },
+                "2e76439986bbced5b7e7d019ff8d3daf": {
+                    "sideBarVisible": true,
+                    "auxiliaryBarVisible": true
+                },
+                "0225afb6e67880debd29fb67e6d89a36": {
+                    "sideBarVisible": true,
+                    "auxiliaryBarVisible": false
+                },
+                "32f5121df12cdde8ba58e221dfd43b57": {
                     "sideBarVisible": true,
                     "auxiliaryBarVisible": false
                 }
