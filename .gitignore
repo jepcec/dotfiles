@@ -1,7 +1,16 @@
+# Ignorar todo
 *
-!nvim/
-!hypr/
-!kitty/
-!waybar/
 
+# Excepto estas carpetas y todo su contenido
+!nvim/
+!nvim/**
+!hypr/
+!hypr/**
+!kitty/
+!kitty/**
+!waybar/
+!waybar/**
+
+# No ignorar el propio gitignore
 !.gitignore
+
