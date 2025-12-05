@@ -1,9 +1,0 @@
-{
-    "workbench.colorTheme": "GitHub Dark",
-    "workbench.iconTheme": "material-icon-theme",
-    "explorer.confirmDelete": false,
-    "explorer.confirmDragAndDrop": false,
-    "dart.flutterSdkPath": "/home/dev/unsaac/desarrollo-software-II/test-flutter/flutter",
-    "editor.minimap.enabled": false,
-    "explorer.compactFolders": false
-}
