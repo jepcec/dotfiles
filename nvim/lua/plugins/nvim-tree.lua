@@ -8,11 +8,14 @@ return {
   },
   opts = {
     view = {
-      width = 30,
+      adaptive_size = true,
     },
     filters = {
       dotfiles = false,
       git_ignored = false,
+    },
+    hijack_directories = {
+      enable = false,
     },
   },
 }

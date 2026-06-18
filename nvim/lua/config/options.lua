@@ -1,5 +1,8 @@
 vim.opt.number = true
 vim.opt.relativenumber = true
+vim.opt.clipboard = "unnamedplus"
+vim.opt.autochdir = false
+vim.opt.scrolloff = 10
 
 local function transparent()
   local groups = {

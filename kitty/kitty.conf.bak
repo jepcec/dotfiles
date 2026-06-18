@@ -1,0 +1,8 @@
+window_padding_width 1
+background_opacity 0.60
+
+
+# BEGIN_KITTY_THEME
+# Flat
+include current-theme.conf
+# END_KITTY_THEME

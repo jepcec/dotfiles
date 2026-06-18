@@ -34,7 +34,9 @@ return {
 	"pyright",
 	"clangd",
 	"emmet_language_server",
-	"astro"
+	"astro",
+
+	"gopls",
       },
       -- AQUÍ ESTÁ EL CAMBIO: 'handlers' ahora va dentro del setup
       handlers = {
@@ -71,6 +73,14 @@ return {
     		},
   	})
 	end,
+	-- configuracion para fastapi projects + python
+	["pyright"] = function ()
+		lspconfig.pyright.setup({
+			settings = {
+				python = { analysis = { autoSearchPaths = true, } }
+			},
+		})
+	end
 
       },
     })
